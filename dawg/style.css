@@ -1,0 +1,16 @@
+body {
+    text-align: center;
+    font-family: arial;
+    background-color: blue;
+    color: white;
+    margin: 100px;
+}
+ #title {
+     color: white;
+     font-family: arial; 
+     text-align: center;
+ }
+ 
+ #text-input{
+     color: gray;
+ }
